@@ -1,4 +1,4 @@
-# Merge - hello Git Github
+# hello Git Github - Merge
 
 1. Item
 2. Item
